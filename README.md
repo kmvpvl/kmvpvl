@@ -13,7 +13,11 @@
 # EXPERIENCE
 ## Project: PlutchikAPI 
 ### Product description
-API for dating sevices based on studies of Robert Plutchik. See Wikipedia about R.Plutchik studies
+API for dating sevices based on studies of Robert Plutchik. See Wikipedia about R.Plutchik studies.
+
+API helps feeding users with content to be assessed. API matchs users according with their evaluations. API can recommend content to increase precsion of matching.
+
+
 ### `Stack`
 Node.js (express) + MongoDB
 ### `Role` 
@@ -70,3 +74,11 @@ PHP + MySQL + HTML + jQuery + Ajax + Bootstrap + Google Chart + C (ATmega microc
 Full-stack developer
 ### `Tools`
 Python, Excel, MS Power BI, Git
+
+---
+# EXAMPLES
+|Stack| Examples|
+|-|-|
+|React.js, TypeScript|[Multidate](https://github.com/kmvpvl/multidate)|
+|Node.js (Express), TypeScript|[PlutchikAPI](https://github.com/kmvpvl/plutchik)|
+|HTML, CSS, PHP, MySQL, jQuery|[EmotionalAzimuth](https://github.com/kmvpvl/EmotionalAzimuth)|
