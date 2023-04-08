@@ -4,6 +4,7 @@
 - `front-end`: React.js, jest, jQuery, HTML, CSS, JavaScript, AJAX, Bootstrap
 - `DB`: MySQL, MongoDB
 - `tools`: VSCode, Figma, Postman, Git, Gitlab (on-premise), GIMP, Adobe Photoshop, Autodesk Autocad, MS PowerBI
+- `API`: Telegram API (bot & webapp)
 
 ## Soft skills:
 - I can negotiate
@@ -82,3 +83,4 @@ Python, Excel, MS Power BI, Git
 |React.js, TypeScript|[Multidate](https://github.com/kmvpvl/multidate)|
 |Node.js (Express), TypeScript|[PlutchikAPI](https://github.com/kmvpvl/plutchik)|
 |HTML, CSS, PHP, MySQL, jQuery|[EmotionalAzimuth](https://github.com/kmvpvl/EmotionalAzimuth)|
+|Telegram API|[PlutchikAPI](https://github.com/kmvpvl/plutchik)|
