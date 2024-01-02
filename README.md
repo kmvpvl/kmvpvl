@@ -8,8 +8,10 @@
 
 ## Soft skills:
 - I can negotiate
-- Understand that there are emergency and urgent tasks
-- Understand what a productive system is and why it requires care
+- I realize that there are emergency and urgent tasks
+- My rich experience in maintenance helps me to  understand what a productive system is and why it requires care
+- As a former maintenance person I make documentation consciously
+- I don't need external motivation, it's inside me.
 
 # EXPERIENCE
 ## Project: PlutchikAPI 
@@ -20,7 +22,7 @@ API helps feeding users with content to be assessed. API matchs users according 
 
 
 ### `Stack`
-Node.js (express) + MongoDB
+Node.js (express) + MongoDB + Telegram API
 ### `Role` 
 Back-end developer, Business Analyst, Data flow designer
 ### `Tools`
